@@ -1,0 +1,3 @@
+[submodule "point_regression"]
+	path = point_regression
+	url = https://gitee.com/qiaofengsheng/point_regression
