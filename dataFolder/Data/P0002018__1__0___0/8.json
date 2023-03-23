@@ -1,0 +1,34 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "point",
+      "points": [
+        [
+          13.899999999999999,
+          3.6000000000000014
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "point",
+      "points": [
+        [
+          13.899999999999999,
+          19.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "8.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABMAAAAXCAIAAABmo+ONAAAEEklEQVR4nEXLyW4UVxQA0HvfezV1VfVkt00gYXQQQgSEwCASQGTaRFE+Ih+Q/FIW2WQRZRlFYomEAxF4aDww2NiRjd1djau6u+b37s0mSs7+4AEzAAMwAyMAgEBC1lDkdV1W7/aT1edrWxubP/z4fTgTGocJS4WkTSWYgQEZ/sOIbFkwnU4mSfHBXG/hwnnb8p4/f2UMMBOzMaCVVOL/wczMAESkASFJYuLKb8LpMyfTdHKwf5CmBTIgADIDkGCmfwsAAAEbY6phNADQ3Y7v2pbnWOfPndp5+9KS4ArhgpSAZIwCZkZERCBGYMGEwK4SvZlmw7OkBD8QDz6/vbP9ttVwFTGhVGgZlHhARAhMhKQlgwKKo8hRjtfwlXIRZV1rZBCMSiAjpflU2MJtuGIcx7ooJbJCIZml5slgBEXtoSU0l5Pij98f9lc28nFmI5TTfOvF5u7rXZ3XYjQcjeNEaFCAVNfR4CidpGVeouZyki09Wnq5/mrp0Z8///TL6rPNLK37qy+2X7+RUqqG5+taj6KhZJbM4/dxdDSs0rJh+47rdzvd+5/dvXLlkzovDt8dxkly+dqVtc0VEix6c70TvXnHcifjST6dCsSLCx9HgyhJEt8PmEApazgaSdeeP9Wr6uLF+ppliaLI8bAmiSCBJsdxHA10XphS727vGYMPvvg6L6pXO3uH76Ovvrwfuk42TsbpyPVV0OooBs6K0pFCWardnWkHQTKKDWGWlnGcZEWlLHnv7p0wdCRBp9Pszfp5NUUlFQph2TYZPXg/sqVUlmq0mhfDVpYWo2E8GA6HUZSMk5mZbtN3O+2w1/OzPHMQlUAAIbKiGqfpubNnbMdmDUDgt5peEE6naZl5nlIKVF5Ue/3Vfv/ppcsLN2/fVsZQluXxOHaCBkthBLIEKQWQQIGe762tLH/7zXdnF86Mq3ru9NyFqxeMztwgUGygyAttTNAM0ZZGAiOQASFAIbY67cVbi9J2NcuyTqNpAqqan+9qZDzKTZQck6KgFQgpEIEJgNACSzCoyrgAEsTe38dGkBV6WR1rynzXE9NpCsCtsKmUIiACJkQWAApJoPBUXPDObvrbrw+fPdnACpqu71uN42iixsfHjXZoKUsDAQgGQESJAhmMgJKBhdKmevp42UY41Q1yyu1O03MDUdSV4zmMTGwEogABwAiomQ2zATCIyyvbs91ZnZbLS30HRF2Urucpvx36vkfIFaMCS4MmZkQkZkNAhEcH2ZMnq7cWFz/s+btvNpttc+L8R6oRCK9hl1VJRExcgwYQDGiACchCBMM7O0cr/Y2bd65/eu/GbC/cWl+exgOuU9EJGpZgZPKEZYMCQEYsoGZJTLy1vv/48V83bl07eTZ023T1+qX5Xrj/ZlPp/B825nNV0ySi0wAAAABJRU5ErkJggg==",
+  "imageHeight": 23,
+  "imageWidth": 19
+}

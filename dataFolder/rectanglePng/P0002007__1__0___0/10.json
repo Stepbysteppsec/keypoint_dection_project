@@ -1,0 +1,22 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "point",
+      "points": [
+        [
+          17.700000000000003,
+          1.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "10.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAQCAIAAACOWFiFAAAErklEQVR4nCXOuW5cVRgA4P9s99x19t07SSCJnSgSdCgoQgJR8CB0NJTkTaBBQjTUUCCKRAIJ4uAlthMnMV7GnnHGM+OZuy9noeB7gg892z5aWVwCEIQZmBKJQCFJOUQiYIxgjYUQRSoHF8N2u5dl+GDv+Meffn78+JtarQKgSy5CSg/6Z4sLPQ1KYVBYpkoQynCvs2gwxijf3XqThPr89JIiIIAMTLRUWkmCcDCf60Jx4DXXO/n36MGDjWbbQRQoRXFUhNf+8ORseHyk4oCIFBUFUURLQl/s7E/Hk/k8vHo32dvbJ6buLXwpQHODZyqRuRC5lLmqenXX4IzCF58+wpZFMCUIKAINyHQc1+bHb99wgsr1OrZMorHQhG7+vdltL3SaXaSQ5RiFTpMocZgpRcEILYSYjK5VgUolazwMojCN8yzMr4Rs1JtVwJhRjGR+9/atnefzQX+ggbp1BowCwuj337ZM7jDC4yhcXm25FZe7DBuQFgkmOEuK+TS8HEyOD0/O3p5RRCzXtavlaqe+emNxZbnLKRBdEFXEfrC3vx/GmV2qdRbXSpUFNDifj0fz8Wjqed6NW0umzRADRVQm8iCK8lToAo+GU6LZUqtXckyhpZ8lh0evhS7WN+7Uqi4BJYucYHU1Hh28PMwyvLJ6xw80LZcdgqjNTduxMaIIACElhSpy4c98gmjFq/fT0XQ0WW6thkGaFkGqYqRzg2GDASO4EIhwCxNZ7bY+qtfjUMcB3t4+oKdnw8nVdHg+jKOo1mxs3LtTa1WIAYEfpEnabrZty+p2WoOT0Xff/+BYHiay1DBa3crNpdWyZ2uATGghCsIRIlQxylyGs/DF3mv09MnW/NqP/NhzS0mWRIn/8NHHlYY3fHeRZMXK8ionliikTHLGyNbzKz+cVutGb6G2sFhVmERpxl0zBxUkoeW4MsdFpq4GwddffUuXlpYXu3I2TWRReBW3f3EShr4meSHybq9NGQGtACE/zH/59YnBPUBK4UqSZBjhZrduW6zAcQ654ZiFRqkE08DHp5FX9vDFxejqahyEyXl/eHraD4PQMDjGpNloGAZGWAJSw8uLf7Y2m22Pe7reLSsNvp8/++vQn6WEkFzmQmUaRK6UZYIo4NXBq3v31+mLvUMKzLU9TonBzEajBoAcx7Y9M04jpYRBjfN+f23tveWVHrMNpSCaQehn29vPgzgtKxMjzhBoECaRoDBIlESB63r00ScPZ5NoOp2G/ixOUsczx5P5LJp3FlqUIW5QrXXZq2xt7u7vnqysvY8QCcNYyrzRqrkeUwgYMgFBAQJAKwUEg+NyVSCqhXAcYzgMZuF4ErzLdPfuxgamMJ+FhEoMuOTQmzdWOS4dvjz/8+kf13MfY71x/4Pb6xuOw7XSqUwznTKLgsZaI4ShWnVPj6/p9STQWnglq7u0nskszUScpssrHSHNIJjneX4ZDPsnw5Jd++zzD/v91YOXx0kSmLbOsoDSMmAwMGeYZroAAIxBYWi0K7s7fZrmKaVg2rzVbSV5Opv7M3/ckVXL5pSXtJKhVBpAgR68G+/s7rXbLW654+vzo+NXdom1eh2tpAQNhPxfRgQa7Sph6D+YF6vQNjkZMQAAAABJRU5ErkJggg==",
+  "imageHeight": 16,
+  "imageWidth": 30
+}

@@ -1,0 +1,22 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "point",
+      "points": [
+        [
+          3.8999999999999986,
+          18.700000000000003
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "12.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAIAAACU62+bAAAEyklEQVR4nCXL209c5xEA8Jn55jtnz9k7LNiJzWLAwXbcQKy4jdRK6SWKlJf2D62UtG6VvKSVIqWprEi2lRaWxBdiDCYYlt1ld9k9l29m+tDf+w9fTadx5E1Lh+oAQMFUzAAIBM0ckqMQgpRFGkUUlCUE8M6ZOA2EQACGBohGhmCihkQRQWmCZREbccQOtXRWelQkAEQEIAJAMlAzLKXwzifsSCQ248gBO2BVJjUHhmAABkgopGZFSareQEOJQeaTGceMnlFUgcBAAez/w0olEadIgJjnkBeTi+G33/yLIwdqOSFlMmOkiBwAoIgnZ0ExiBbl8OxsNBg8+OLBvfv3MQ/nuWUBSzbQskhdzEiWF1AK+Wg2uXz5393zwflkNr1x++bG3TsYwpvgQi4ZG7lSXDA2VxZSZPnzvV5/MGDnFjqLKze6SasmjOxMnCILoJkVcnF2ns/KwWl/d2en2misbt5cuHKlvtCK00RA1RT14jkgYJ6FMuzs9IbnwzIPjv3tu3dri4tRrWrMgubYnQ8Gw+GQRycnNhj/uNsbzGfN5aVmu91d26gk1XRhoQjBJ8loeglEZZZNJnmrscS7j78fHp2+v/X+WrOeXlmsLy6WCBx5ZC7G5fHR6yBmQNVqrXt93TuHr777x/XuhhEDe6hUBAw9F6Jn/f5sMi2LstVsNRvNNE3Zs4iijV5ZVDXyRSGCPogJuPFlnud5JXZJ7CNH2eU0z7Nao5qmKVuFg2RmkgcdTcZvTi8Go/ksl+Pj4w8/3Lq5vnHw08vp+Pzs9LhRS7a3tjiTAIAnJ8dZZgDR4eHBo8e7pTjn4o9+c3/Yv+z1frr1ztovP9hAKNK4wYNpnsZJnkO12mg1O+Nxfuf2drO5/PDho05r+eRk8uyHg6X2W8/2vs+yyaef/I5O38wq8WKns1Kvdy5G07XVtWtvXR30zzrtZr2aLLTig/3DatLaWHtXQvLtwye8tLDe7xc/v/55b6+XVOKP//B7B2Jl3mqkkYeIw8rKNYBw592rF+ONf3/3Nb/48eCrr/65vNze3FxPKh7U8nlhWsSVCiIAult3Vo9P9jdvXSPW5WtL9Nmf/9JpL37824/ubb13/4PtZjPN80mv93iWDZi13ojW15fO+od///Jv5qe/+vUvePu9zT/98ZNmq6kSfMLz2bhWdYQZ2izohFzYvrdx/UbHkJM04RjRZgFUL2cT793RydF8Nu523zZQn1YqSWWWzQEpjhIBCxLYGZfTUzXpn77Zf/l8NL6IEn+9u9Bot9RMQuY9IGLQTFQqPkYIfLi/03v61Ajq7cY7m93ujVWOnFpQMwBwziM4MJMQTNBhyv958mh1fe3qyttps5Y26uQZHBEjGqpCCAFRkVwcVUgY1OPs2ZOollDi0aEyYsRBpJRAzrHzqmAKzJFDBkFQZqrGLokg9mbBANHMe++YgwYDZWZQUCkDlA4IkAiv1F4Xo7nXnNRVYjMtijkCIIJIYVKY5ipzgExoGtyEjs8Hj/d+MIqUfRkKUImIEI1MSYVCKC7GnOUcSrCMqOBiXEaUKLJDKsI85VilJEBCB6jlPD/qPfWFrKx33XIVwVGehUa9rYIAnl1qWCkwyoVK9OIqyElabz9/tv/Xzx+86L2A4P4HgezNOzfrwUAAAAAASUVORK5CYII=",
+  "imageHeight": 32,
+  "imageWidth": 16
+}

@@ -1,0 +1,34 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "point",
+      "points": [
+        [
+          6.799999999999997,
+          10.799999999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "point",
+      "points": [
+        [
+          27.799999999999997,
+          13.100000000000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "16.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAB0AAAASCAIAAAAop0KNAAAE3UlEQVR4nAXB+W9bVRYA4HPuvW/zs514SeM6ThvqTluooEBhEBISICEE4u/lh9EgfikasUzVNZ1JmpClJGlsx8vb313O4fvwyWtdFGm7GSmfo9APQyUEEDAAC4FKkWWwBMSAAgQSW8OmVs7M316cHBwWq3R9vfPpw0+bvc3FcqnjUCvh+x7unl9dXV15Snq+9DyvEQZhGCglpVJCCm0dC0QUgAiIEkAQodGo69nFxfTsPPT86eVkb2+fCD78/PPbH3+k4lh6AqdMRZEXeVFVtTE2CsJGI0YhBHrKFyglSIEIxADMEkEhKGYf0OmarHWO8jSttZ7NZ+cXl+N33x+MttFDnDAzgwCuKq2N8ZTStZlMZnmWt9fazXbLD33P8wSCECAFGqMDqZRU5BwTCwABqK0WgpVSBJJQkHB4XFVKSYHITIgAwOAYCJM0SVaJNS4MolarRWy0Ltfa7bjVNNY6SwKFElKiQGBrDKBjsugJQmQBeGZrIdGxA2Zm8ISSLAgYAZjIVNZpB8x5keVFVukqjKLhcEiOlFSe8pjBGaOkiEJPu5oBDSMh4rnTjtmRkUIho0TF1jlnQ095UjpLHihjrXM1ARdVvVoui6oaDAZSekVerK+1m5FPgFVVRGHAIC1Iy4Az4ppAIDjHAtAaUhIDxUZbgeShZwo7nS63tvrKk9o6z4Pzt9ON/sZ0dlXVWld1FPnXNjcdaV95jkkFvgMSeQlMkKa0Wjh24EtEQl1CIP1WEALh4f7J498ek6a6cMk8/fnfj7JFkSzL9WZ3a/O6IHU1yw73j8lgkVd1VZX5SteJkpKt4aPDi8PXRxLrje7aaGu7311X6Gc1Zct09/mrsqh1WRWle/Tol0YcPfnv85s7O7duvVPVZZqUy+Xq4M/XUfRVoxHO5pdRQ6FCdfTnBUOwu/tq98Urdi5QUlf5++/d+eH7r512p8d/lXk92Nwytdh99rKz1n/48H5V21/+83urEZ+dz9rt5q2dcZJmTHo02o7jMEnSsjaq1WpIEX77zVeffPQgTZIyz0xZ3hnfzFP9+69/jHfGQRBHYRD6YVlqRAUssjRPl8WLpwfGOWfZGB4Nt/u9m3nOSgWNSBWZVp1u0xjKslz5rr/RjEa9diNshsH/Xh5EYVxVJs/KxXyZ5/U7O+O3by9fPj84PjmdTma9Xl8bM7h/pzb50dHpxrV2Vzb39t7s/f9iOUehIgxj7Hajfr+hPFvVyWI1z4vsgw/G3333da/bE1JUhoxzd+4NPvnnve2d7bX1VhQF2zdGxurx7VvD4YiZj0/PUEQoaP/ghcFEAVtfSSGl74dhhLZ2ZVZV2tRG5HllXB23Gt1uJ2o25kn6629//GN8d5HM792/e+PG6NnLZ0Iqz/evriY74+vtNfXg4/fG744dSMVoNddEBER+4Pue9D0lwXPGnl3+lRarqKWanUiGqAuZZMm/fvpxOBx98eVnZVn1NjpPnz21rt4c9B58eJcZmFwUSycAL7hkIGLHRL4MrLXopC/9SMrFokwWq8VyEcetbq8TN8LTkzcb1zpx1A59cAYvJ7PX+yd+GNy+PVzrdogpCEQFNjcG39hKSEQAZCBmASBZAoMEkCCYSGszmUxbrRaDWy1W1webjUZcZlUcB0KIsjDGsgoUCgTBjp1DB1L+DQCeBY3LQ2GzAAAAAElFTkSuQmCC",
+  "imageHeight": 18,
+  "imageWidth": 29
+}

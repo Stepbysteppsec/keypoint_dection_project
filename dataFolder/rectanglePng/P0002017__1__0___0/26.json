@@ -1,0 +1,22 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "point",
+      "points": [
+        [
+          15.700000000000003,
+          6.299999999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "26.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABwAAAAVCAIAAADaYBkLAAAFMUlEQVR4nC3US3ObZxUA4HPOe/k+SZ91s2THVePEOKFxOxPoijDQHTPAEv4drPkZhRW0MMMCBmgmjWvXsSXLknXXd3sv57CAv/AsHrzZ54+zubW62++z1YKYoAreI4CvfVEUD9NFr3tMpH//uz+cn5395re/aGWqqFwzMwIQAQRIBBgAEAQZIBIItxKzni+2j0tdh4RBmKu6RgIfah/q4dHhYNjWCoKTuoplIc6hsQlH4MgSI6EQAgoQCIIQiG7ZJOv0bIQ8L6jlMbCPYb9Zrzh0ep3uoEtoIag0Peh1D71jAIUCmiTEKBABRRgBCQBARCNyZOLaQe0HzbZxcTOe1stNsVjlj8uPBsODrKU1EYHSgBBfnJ+v1xtNXhgkgFFoLRIySERgER85cPDKi95vtqvJFF2wqBigzovGQfbR8Ci11qFw5EQp530zNVkLoitm08eXn4xIM4AXDggRAQk0oIoSSbja7QhC3K/Xq+XiL1/9+erqu/nDw2a9jt7XwRnSibIJqcQoDiFrJP/+x98xMjJvlov7yc1yMY2uQo4EQIAGyRf5w/2tbh1kT8+eFZvdk5OTsqqU0Vcfbtex+vRkoFFX0RV1bShxVZhOJq2GvXz7vploNNX767dPz0bNRgsFYx2ANKJkWePVq1d6PJ0YxGzY73Y6zWZzu9tjO/MkLgYTAzISolWgM/zhi2e//tUvz5+f9rK2StvdH/8sQJklB0jWeSQiIPFRmAn/eX3dbbfTxKZp4oIHwdV6u9puBsNhr90BAQKSCAYAmPNdhWBWy51NiYx0+i3QIIJRKCKWoarrfL/a4zQ4AUFEBpbIKJgoc3N3Z7Ue9PsKVap1cLKcrzfLPDFkbXZ5+d34/sPp89Gbn36uLJSuUqaxrf3Dcu5CqYAoIopSjsAhBqWiwL4se70uAlRlpZUCYWD505d/zHfb2cPi+uoqazW++OLni/n8w+1t8EEr3G7Xs4dJVRbD4aA/7BGRjoAARKgUKmuMTWwra0WOq9WiLHIf4mRy54O7uHhpLc7ns36/iyLG2Plsud9Xy9XO+ZAa+/GTk3bzoNXMNIMAAAIiIAK7GIxSANhotiaLhVFm0Osbo7NW8+bmmgiY49XVTVkUs8VsMDjcrLfdQSdpNX2MyhhA4hhwzIwoDCIAChBACEABee+qvNgslqOjIwnwzb/ehlrev7v60evPRfDubtztdc5fnrb7WbObRBAg8jFGAFKKBP7XCxAAAYkAALIIIhlrgeg/797ZNPn0s8+OT5785M2bNG0URbXfFY/z5W6/a3cbIcayqmJkAGCOAqK9YIKAggQQgRmEABkYEYy1R8fH7VbmQ6i8N4ndbbdvv/n25Pjji4sLbfX1998PRr3DYS8IEyEDCEOIgQCZmY2IrxxzxP/7EiAKIipl0/R2PPn28vJxudLWNJqN4+Oj16/PR6PD+XK22WwBRCslIgCCCFopkug4hgigjTbKEFAUiAKBYbfb5UWxy/Ntvi/r8q9/+9o2ktrXs8fpYlPfTu+fnT3r9vuC6EKIwiyilQIAvGdHQhopijAiizjvi7KsyjLf7jiEH5w+DS6OP4yr0lmVLOfr6WS2Xm9eXrx48cnz0dMjMhSZlVGOIxDGGHEaHIJi5sAMAM65bb6fzWZJkhz2+weN5kGjkef55HYMjEbZ1DTr0iute4N2dpAqQxEkSkStAgdAREQtDIgCIMH7qq5jjAAwGo2SJEnT1CBV3llrDjoZCXba3cSkxb6+G89P24aRXBBUECKLsLIKBAjpvxR5OcVLDRuVAAAAAElFTkSuQmCC",
+  "imageHeight": 21,
+  "imageWidth": 28
+}

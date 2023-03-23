@@ -1,0 +1,34 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "point",
+      "points": [
+        [
+          8.399999999999999,
+          13.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "point",
+      "points": [
+        [
+          22.400000000000006,
+          12.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "19.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABgAAAATCAIAAAAF0lpsAAAEF0lEQVR4nCXQyXIbVRQA0Hvve/261a3BluzYSgjBdoVMhAyYwBewpVJ8AvBH2fMT3rCgiiwIuELMDlKJDY6DZCu2FLWGHt5wLwvOJxw8lSACIkKAhILCEJwSFxFjsJpEK0AUQAZgAUFAFAAAQCVMPkBg9E40AgECCisEBCAJACHCYBQqpQiDcGD2SICIAMgiKIBCiMiBF4tlVTgXWAcAFCAgAEYOwE6Jj5QoYIJAIIICAIGZSAkAIinUdW3L5XI6zavKttud9dVVLSLIgAgoLOwgWIBAihRw8DVFWtgjak2aUNXBKdKCarGsZvkcAHu9XqvVjI3RACwI8P+OBG9rRQKagAUZQIjI+BBAMCBXVSiWy7IsvXdZmnbarbTREPGIrEmYBBRBqEvhmoMDRcAEipQ2zCgBEI0PXNb2/Py9CG32L8exCmIRoPa1RiBN2gAyBPCBgw2uSiKdGKMUAgCzgBCL2CoMTkdFWcUmXVtbR9GKImaPCLEyAEHY43lZWF8C+oi4aRJhr5EQBBmYsS4tUDTLF4CYJFmWteI4CsHbsARltSZNJIGdtWQQm3Hiq1KhRAq9s957xEggfj8tT0f5+bu5c5oobbW6hNFwcHHw4q/JeRm8VmCqIiA1rFOYl3PnrUgdxxgppTFy1l9cTCfjGbOe5cVknMdxygwP7t/r9pKnTw86K73nz5/tfn7rkzs30kYGiNZaAgmKKE1SBVgVxWIxc84XRdXpdLe3Pn758jjL1nd27o5GyxcHh7/uH07yYrXXvXHz7t+H47cneV3rfBqOj8caicWzgFrks3I5t066q/2VTj9LWxxMXdFwWKyvSbO5prVZLErnaLXThqsbJ2/Oz0azjU3/+tXJs/3fSNhP3k+Ojo4m40VEnc3ejbpoj0d6NPSIsLv72XBw/uTJD0dH/9S1b6a946OBwqjf7ztnhTzFwcG822vpYmmrUhSuzqbV4Z/vBm+PZrmv6ipJ8dvvH7dbrSyD7777Zm9vbzDQlzYeNbP2fDbtdFYCF4BLxOKLL28/eHhT//zTH69eD9+dFZc3ryBjPl30ur2VHt5/eDvNZDA46fYa/Svtrx9/9eyX/bPhm3uf3jw7G1e1X11paQJjkGGZxKR/3Nu/defe1kf9RqJ2tq9sb1+6trUhYAVQETQyTOZ0OhhaV314rX/n1s6yqN8cH19M/m1m+tGj3ST2ZZ0rk+DB78P2SqPVNp12EoIVqVyYNxoxM0WqNcvtyclpVVpjtDHm+vUtEbwYj2q7uHr1gxCsjjygBRCcLUulRCmp60opQPBJrJyrEA1IHEXNuvLecZYmIYAgILEPC0SnlBIQEA/CCglrOxZhE0WMzMLeVlGkCRSA8R4VaSQQFmGNqBAByIlUgjWz9yHExoiNtE7/A9LTkBuN4zMEAAAAAElFTkSuQmCC",
+  "imageHeight": 19,
+  "imageWidth": 24
+}

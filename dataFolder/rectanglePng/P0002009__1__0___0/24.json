@@ -1,0 +1,22 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "point",
+      "points": [
+        [
+          18.700000000000003,
+          5.200000000000003
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "24.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAB0AAAAUCAIAAAD+/qGQAAAE4klEQVR4nCXM3W8cVxkH4N/7nnNmzuyuZ9cf9TYhbZN+yOJDiBRChZC4gF5yxx/KDddUQghVrmiCRBvk2E5sb0xjO461O7M7M+e878sFzx/w0IWoYzIYjGAgwADAiIVgMJgCQg7kjdbL4S9//vpf/zz54teP//inxwPrm7vrST2O4wjR4Dgw6bC2PDApzBRmZMaE/9cEgnkHL6YGY++EeCBBtN/+4WeDrt/c3NwtUU9c33V915UhFEXhHBsQipGR48JBJQNGTAAAmCIlU0E2gDir9JIz2QBYgdm9ya9+9+jq7uzd6u1d00vKJrZuNiklx64bhk1Km0E4S1JNjoygZIDBEWIg7xCIAvnoo2MQE7mAsuLgJtPy9OxZFXMZXCyK4JxnF5zrU44xDjn/4/CQAcSCs7SqvUEAGIwBzdZnyaJZEgFEEEAzHIWDTw/uvT9/+u2z1CtEkHPBxADDRGTTd8tVwxAdho5JzTrmDOSUMggAMShrApNAhrQJQFD4jHvv7T766OHuzm7hZG97Z2s0cjCS7AnOORWtZzP6+3++D6WGgkajypQJUTMXZYRRGciYvHfJkg069hNkmJipqqa+w3RaLpdNPR25grqh90XRpv78YvH14aGfbu1y6PthKSIwrJY3poHINU1b11uhcFnSpm0DyhGPb6+Wm3U/qbdiWRAbo744f13PRg8ffXh7c9vlLpmK5Gld+1k9hZcQtofcEbie7EJdztiZJe8gJmZ5GqtgYVzWR98dxbK6P//k7OxV1613t6dMZiIqMtuqB6uMqc/5YrHwRVkOKakokxFR4NLMxUg5qyPrc8dwAezUr+6ad+9uvvz9lzvbWzuzn3zzzWG7vJvv74eCy+DZxehin/qmbfrNmpuVhRCIPaGAeeeCKlTgHBu5EIoQiljFogzMmM/nw5BMpYruyZOfXyxevXhxZEbOO+fYgYMPezvbKplvrm9F4J3zvvS+BEDEABEoAwrLql0nRI6dn+/PF+cX67ZVlViFzz//MVEWSZtNzxxSziq62Wz29/e8KIakAguBAcsKEIEhBIDUfGSf+yxGVdz6+NH4cvG6qkrvHDmtp6MvfvML4hgKlzWrIcbqbrVs25Z/eH1ZlgRWRSJWg4FMCUIwArFLRilnNSTRk5NX/728un27FDEzryopdUNuMtSYQgibYZjUtWTlo+cnQwOGV1NDFh2UDGQEMABTg8VRVNGscvrqpao9f358fHK+eH3ZbtLi8nXTNIDmLMZEzsEoxhE/ffrvo++P0SsEDCUk6GAmMDXNZhmUjAQO9bSA06Jyv3zy05Tz7e3dy5dnP1y9vb69bdZtCN7MFKZQU/Wrtjl+cVVvT/cfjIk6MjApmRgxSAEFFMTki6bpR5Oy2ayS0sefPlToplvFt2Mf/daoNiMzcszKVtdj/+CDH+3Mp8enp1ZO7z+YeTAMRMrsCGYQg8DMSKpR+ODh+w5lOfJx5LOgmuys2lWXhmyWu44dqww5b6bTifchjMfj+x/ef/bdV6E62K53Rs57hgOYoNCsSVUFiV312Wcf9R2Ci8s25TSMJuWyaff39ySntlkGR7HyXvL14g2vm+y5rremBwePzxfXgceBS0+uAAXAA960YvYwZpQ+sONB5K9f/e305fkw2N57c2JaLt/VE79dF9NR4U1n4/g/bNkP9Aop2d8AAAAASUVORK5CYII=",
+  "imageHeight": 20,
+  "imageWidth": 29
+}
