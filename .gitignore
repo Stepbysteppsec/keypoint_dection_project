@@ -1,0 +1,27 @@
+# .gitignore
+
+# Ignore virtual environment folder
+keypoint/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore dataFolder
+dataFolder/
+
+# Ignore rectangelJson folder
+rectangelJson/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore other files and folders that should not be tracked
+.vscode/
+*.log
+*.code-workspace
